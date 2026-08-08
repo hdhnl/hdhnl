@@ -1,41 +1,30 @@
-# Konstantinos N. Nikas 👋
+# Konstantinos N. Nikas
 
-**Digital humanities · Knowledge engineering · Semantic Web · Greek public administration**
+**Human–Computer Interaction · Open Access · Digital Humanities · Cultural Heritage Information Management · Open Data**
 
-I build knowledge graphs and archival systems at the intersection of cultural heritage, law, and AI. My work focuses on making Greek public-sector and cultural knowledge **structured, queryable, and open** — using RDF, RiC-O, and agentic tooling.
+Working at the intersection of cultural heritage, information science, and the web — with a focus on making cultural and scholarly knowledge structured, accessible, and open.
 
----
+## Focus areas
 
-## 🏗️ Active Projects
+- **Human–Computer Interaction** — designing systems that put people first
+- **Open Access & Open Data** — promoting free, reusable scholarly and public-sector information
+- **Digital Humanities** — computational methods for cultural and historical research
+- **Cultural Heritage Information Management** — curation, cataloguing, and long-term preservation of cultural material
+- **Semantic Web & Knowledge Graphs** — RDF, linked open data, ontologies
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Κυαίστωρ** (Kyaistor) | PhD research — RiC-O ontology applied to Greek public administration records (gov.gr), modeling archival entities, agents, and functions | RiC-O, RDF, SPARQL, Fuseki |
-| **Νομοθέτης** (Nomothetes) | Knowledge graph of Greek legislation — **321K triples**, 6.8K ΦΕΚ (Government Gazette) resources 2000–2026, full-text of articles | RDF, legalize-gr, Fuseki |
-| **Λογοθέτης** (Logothetes) | Public procurement knowledge graph | RDF, Gephi |
-| **Ευθυταξία** (Euthutaxia) | A military-discipline protocol for AI agents: mandatory RiC-O flat-TTL recording of every decision, triple-archival (flat + Fuseki + Oxigraph), and a self-audit checklist — built as a Hermes Agent skill | Hermes Agent, RiC-O, TTL |
-| **AAF** | Agent Archival Framework — persistent archival layer for agent sessions | RDF, Oxigraph |
+## Selected work
 
-## 🧰 Tooling & Infrastructure
+- Knowledge-graph construction for Greek legislation and public administration (RDF / SPARQL / linked open data)
+- RiC-O based archival modelling of public-sector records
+- Open-access metadata and cataloguing practice (MARC21 / RDA, Koha ILS)
+- Agent-based research infrastructure for archival and scholarly workflows
 
-- **RDF stack:** Apache Jena Fuseki, Oxigraph, SPARQL, Turtle
-- **Automation:** n8n workflows, MCP servers (Gitea, MinIO, Zenodo, Fuseki, Oxigraph, Redmine), self-hosted VPS
-- **Agent platform:** Hermes Agent (Nous Research) — including self-authored discipline skills
-- **Cataloging:** Koha ILS / MARC21 (church library of Agioi Pantes, Corfu)
+## Interests
 
-## 📚 Interests
-
-- Greek Orthodox theology & Byzantine history (patristic texts, hagiography)
-- Digital libraries & archival science
+- Digital libraries and archival science
 - Semantic interoperability of public-sector data
 - Legislation as linked open data
 
-## 🎯 What I'm working on now
-
-- Expanding **Νομοθέτης** with EU digital-law coverage (GDPR/NIS2, trademarks, consumer protection)
-- Modeling **mitos.gov.gr** (Greek public-sector procedures) into RiC-O — 2.5K records linked to legislation
-- Sharing **Ευθυταξία** with the Nous Research community as a reusable agent-discipline template
-
 ---
 
-*☧ Greek Orthodox · English & Ελληνικά · Open to collaborations on digital humanities & legal knowledge graphs*
+*English & Ελληνικά · Open to collaborations in digital humanities, open access, and cultural heritage informatics*
