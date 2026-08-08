@@ -4,7 +4,8 @@
 ![Static Badge](https://img.shields.io/badge/Open%20Access-1E90FF) 
 ![Static Badge](https://img.shields.io/badge/Digital%20Humanities-FF6347) 
 ![Static Badge](https://img.shields.io/badge/Cultural%20Heritage-2E8B57) 
-![Static Badge](https://img.shields.io/badge/Open%20Data-FFD700)
+![Static Badge](https://img.shields.io/badge/Open%20Data-FFD700) 
+![Static Badge](https://img.shields.io/badge/Accessibility-008080)
 
 I work in the **public health sector**, at the intersection of **information science and the web**: structuring health, cultural, and public-sector knowledge so it is open, queryable, and reusable — through open access, open data, and human-centred design.
 
@@ -13,6 +14,7 @@ I work in the **public health sector**, at the intersection of **information sci
 ## What I do
 
 - **Public health information systems** — supporting the delivery of public health services through well-structured information
+- **Accessibility & assistive technology** — designing interfaces for people with disabilities, including eye-tracking communication tools for ALS
 - **Open knowledge infrastructure** — knowledge graphs, RDF/SPARQL, linked open data; applied to legislation, public administration, and archival records (RiC-O)
 - **Cultural heritage informatics** — curation, cataloguing (MARC21 / RDA, Koha ILS), and long-term preservation of cultural material
 - **Open access & open data practice** — making scholarly and public-sector information free and reusable
@@ -20,6 +22,7 @@ I work in the **public health sector**, at the intersection of **information sci
 ## Domains of interest
 
 - Health information & biomedical data
+- Accessibility for people with disabilities (incl. ALS)
 - Digital libraries and archival science
 - Legislation as linked open data
 - Agriculture and agri-food data
