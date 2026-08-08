@@ -1,29 +1,28 @@
 # Konstantinos N. Nikas
 
-**Human–Computer Interaction · Open Access · Digital Humanities · Cultural Heritage Information Management · Open Data**
+![Static Badge](https://img.shields.io/badge/Human–Computer%20Interaction-8A2BE2) 
+![Static Badge](https://img.shields.io/badge/Open%20Access-1E90FF) 
+![Static Badge](https://img.shields.io/badge/Digital%20Humanities-FF6347) 
+![Static Badge](https://img.shields.io/badge/Cultural%20Heritage-2E8B57) 
+![Static Badge](https://img.shields.io/badge/Open%20Data-FFD700)
 
-Working at the intersection of cultural heritage, information science, and the web — with a focus on making cultural and scholarly knowledge structured, accessible, and open.
+I work in the **public health sector**, at the intersection of **information science and the web**: structuring health, cultural, and public-sector knowledge so it is open, queryable, and reusable — through open access, open data, and human-centred design.
 
-## Focus areas
+---
 
-- **Human–Computer Interaction** — designing systems that put people first
-- **Open Access & Open Data** — promoting free, reusable scholarly and public-sector information
-- **Digital Humanities** — computational methods for cultural and historical research
-- **Cultural Heritage Information Management** — curation, cataloguing, and long-term preservation of cultural material
-- **Semantic Web & Knowledge Graphs** — RDF, linked open data, ontologies
+## What I do
 
-## Selected work
+- **Public health information systems** — supporting the delivery of public health services through well-structured information
+- **Open knowledge infrastructure** — knowledge graphs, RDF/SPARQL, linked open data; applied to legislation, public administration, and archival records (RiC-O)
+- **Cultural heritage informatics** — curation, cataloguing (MARC21 / RDA, Koha ILS), and long-term preservation of cultural material
+- **Open access & open data practice** — making scholarly and public-sector information free and reusable
 
-- Knowledge-graph construction for Greek legislation and public administration (RDF / SPARQL / linked open data)
-- RiC-O based archival modelling of public-sector records
-- Open-access metadata and cataloguing practice (MARC21 / RDA, Koha ILS)
-- Agent-based research infrastructure for archival and scholarly workflows
+## Domains of interest
 
-## Interests
-
+- Health information & biomedical data
 - Digital libraries and archival science
-- Semantic interoperability of public-sector data
 - Legislation as linked open data
+- Agriculture and agri-food data
 
 ---
 
